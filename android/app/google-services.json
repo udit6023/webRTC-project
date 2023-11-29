@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621660191061",
+    "project_id": "webrtc-aaba5",
+    "storage_bucket": "webrtc-aaba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621660191061:android:9026e26c12332a982057dc",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzveXfNgdHZrvdJxv1OZiXPCQSBfm2aKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
