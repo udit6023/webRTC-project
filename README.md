@@ -1,16 +1,7 @@
 # webrtc_project
 
-A new Flutter project.
+A webRTC based project in Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img2](https://github.com/udit6023/webRTC-project/assets/91983775/55adc94e-0b05-4870-8b06-810c638732b7)
+![img1](https://github.com/udit6023/webRTC-project/assets/91983775/e105ab85-0cbd-4ce8-a19c-182df7e2ebcd)
